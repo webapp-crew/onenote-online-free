@@ -27,4 +27,4 @@ Lizenz - Deutsch
 
 Version:	v0.1
 Based on:	nwjs Framework
-Tested on:	nwjs-nacl-v0.13.0-beta2-linux-x64.tar.gz
+Tested on:	nwjs-nacl-v0.27.5-windows-x64
