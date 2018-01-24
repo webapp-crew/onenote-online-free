@@ -1,0 +1,26 @@
++-----------------------------+
+| onenote-free                |
+| © 2018 webapp-crew          |
+| licensed under              |
+| CC-BY-NC-SA 4.0             |
++-----------------------------+
+
+LEGAL DISCLAIMER:
+THIS APPLICATION IS NEITHER AFFILIATED, SPONSORED OR ENDORSED BY MICROSOFT.
+MICROSOFT, OFFICE AND ONENOTE ARE REGISTERED TRADEMARKS OF Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, in the USA and other countries.
+
+License - English
+	td.nw.js by webapp-crew is licensed under a Creative Commons Attribution - Non-Commercial - Share-Alike 4.0 International License.
+	To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc-sa/4.0/
+	
+	Permissions beyond the scope of this license may be available on request.
+
+Lizenz - Deutsch
+	td.nw.js von webapp-crew ist lizenziert unter einer Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.
+	Die Lizenz können sie unter folgendem Link einsehen: http://creativecommons.org/licenses/by-nc-sa/4.0/
+	
+	Über diese Lizenz hinausgehende Erlaubnisse können Sie auf .
+
+Version:	v0.1
+Based on:	nwjs Framework
+Tested on:	nwjs-nacl-v0.13.0-beta2-linux-x64.tar.gz
