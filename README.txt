@@ -9,3 +9,4 @@ Source of Inspiration comes from:
 - "Linux Web Apps project": They seemed to have made this as an installable ubuntu package that adds the links to the WebApps to the Ubuntu Menu but the file is not longer available... Also it used the main browser, which may be suboptimal in some cases - espechally if seamless user experience is wanted.
     Found at: http://www.omgubuntu.co.uk/2014/07/run-microsoft-office-web-apps-ubuntu-desktop
    
+See LICENSE.txt for info on Licensing terms
