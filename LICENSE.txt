@@ -7,7 +7,10 @@
 
 LEGAL DISCLAIMER:
 THIS APPLICATION IS NEITHER AFFILIATED, SPONSORED OR ENDORSED BY MICROSOFT.
-MICROSOFT, OFFICE AND ONENOTE ARE REGISTERED TRADEMARKS OF Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, in the USA and other countries.
+MICROSOFT, OFFICE AND ONENOTE ARE REGISTERED TRADEMARKS OF
+Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399,
+in the USA and other countries.
+
 
 License - English
 	td.nw.js by webapp-crew is licensed under a Creative Commons Attribution - Non-Commercial - Share-Alike 4.0 International License.
@@ -20,6 +23,7 @@ Lizenz - Deutsch
 	Die Lizenz können sie unter folgendem Link einsehen: http://creativecommons.org/licenses/by-nc-sa/4.0/
 	
 	Über diese Lizenz hinausgehende Erlaubnisse können Sie auf .
+
 
 Version:	v0.1
 Based on:	nwjs Framework
