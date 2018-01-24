@@ -1,0 +1,28 @@
+Installation Instructions:
+	1.	go to http://nwjs.io/downloads/
+	2.	click on "latest"
+	3.	left-click on NACL for your OS [i.e. Windows 64-bit]
+	4.	choose "save file"
+	5.	wait until it's fully downloaded
+	6.	switch to the folder containing the download
+	7.	extract the file w/ title nwjs-nacl-v.......zip [or .tar.gz on Linux] using the tools of your choice - even Windows can do it out-of-the box.
+	8.	open the directory named like the .zip file [nw.js directory]
+	9.	copy the contents of this directory / archive into the nw.js directory
+	10.	run the executable named nw [ie.e. nw.exe under Windows, nw under linux] - linux users have to make shure the file named nw is made executeable.
+	11. now you have a dedicaded OneNote native client. Now log-in with your Microsoft Account credentials. You may tick on the "remember me" checkbox at the login
+	12.	Your OneNote Native Client is now ready.
+
+Additional Steps under Ubuntu
+	1.	Move the nw.js directory to your /home folder [i.e. /home/user/ - replace user w/ your unix user name]
+	2.	install "menulibre" using "sudo apt-get install menulibre" in Terminal or by searching in Synaptic
+	3.	Download the OneNote logo. You can find it here: https://de.wikipedia.org/wiki/Datei:Microsoft_OneNote-Logo.svg
+	4.	Copy a logo of choice into the nw.js directory
+	5.	open menulibre by entering the name in the dash
+	6.	Choose "Office"
+	7.	Click on the add button [plus icon]
+	8.	Select the Logo of your choice in the nw.js directory
+	9.	Add Name in the first Field
+	10.	select the nw file in your nw.js directory in the 3rd field.
+	11.	make shure "run in terminal" and "hide in menu" are ticked off
+	12. click on the save icon [next to the plus icon]
+	13.	you can now lauch OneNote from your dash, and/or add a shortcut to desktop and launcher.
